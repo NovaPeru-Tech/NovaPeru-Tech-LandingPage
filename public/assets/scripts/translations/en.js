@@ -91,7 +91,8 @@ const translationsEN = {
         "member2": "Software Engineering student. I am a collaborative and adaptable team player who enjoys contributing ideas to projects. I have a strong foundation in languages like C++ and Python and always seek efficient, simple solutions.",
         "member3": "A curious and committed Software Engineering student at UPC, with experience in project management and agile methodologies. I have a strong focus on web development and data analysis. I'm eager to help guide the project to success.",
         "member4": "A punctual, responsible, and goal-oriented individual with experience in project management and web development. I'm focused on contributing my knowledge to make this project a success.",
-        "member5": "A Software Engineering student with knowledge in C++, OOP, and web design. My contribution to the team is my commitment to punctuality, research, and creative problem-solving to ensure a great project outcome."
+        "member5": "A Software Engineering student with knowledge in C++, OOP, and web design. My contribution to the team is my commitment to punctuality, research, and creative problem-solving to ensure a great project outcome.",
+        "member6": "Software Engineering student currently in my fifth semester. I have knowledge in C++ and databases, which allows me to contribute to the development of digital solutions for the project."
     },
     "plans": {
         "button": "Plans",

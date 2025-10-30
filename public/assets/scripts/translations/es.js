@@ -91,7 +91,8 @@ const translationsES = {
         "member2": "Estudiante de Ingeniería de Software. Soy un jugador de equipo colaborativo y adaptable que disfruta contribuyendo con ideas a los proyectos. Tengo una base sólida en lenguajes como C++ y Python y siempre busco soluciones eficientes y simples.",
         "member3": "Estudiante de Ingeniería de Software curiosa y comprometida en la UPC, con experiencia en gestión de proyectos y metodologías ágiles. Tengo un fuerte enfoque en el desarrollo web y el análisis de datos. Estoy ansiosa por ayudar a guiar el proyecto hacia el éxito.",
         "member4": "Un individuo puntual, responsable y orientado a objetivos con experiencia en gestión de proyectos y desarrollo web. Estoy enfocado en contribuir con mis conocimientos para que este proyecto sea un éxito.",
-        "member5": "Estudiante de Ingeniería de Software con conocimientos en C++, POO y diseño web. Mi contribución al equipo es mi compromiso con la puntualidad, la investigación y la resolución creativa de problemas para asegurar un gran resultado del proyecto."
+        "member5": "Estudiante de Ingeniería de Software con conocimientos en C++, POO y diseño web. Mi contribución al equipo es mi compromiso con la puntualidad, la investigación y la resolución creativa de problemas para asegurar un gran resultado del proyecto.",
+        "member6": "Estudiante de Ingeniería de Software y actualmente curso mi quinto ciclo. Tengo conocimientos de C++ y bases de datos, lo que me permite contribuir al desarrollo de soluciones digitales para el proyecto."
     },
     "plans": {
         "button": "Planes",
