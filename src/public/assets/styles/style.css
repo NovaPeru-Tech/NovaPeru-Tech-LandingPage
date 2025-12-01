@@ -205,7 +205,7 @@ section {
     align-items: center;
     justify-content: space-evenly;
     padding-top: 10rem;
-    background: url('images/background-image.jpg') no-repeat center center;
+    background: url('../images/background-image.jpg') no-repeat center center;
     background-size: cover;
     max-width: none;
 }
