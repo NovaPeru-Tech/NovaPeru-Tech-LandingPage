@@ -1,46 +1,34 @@
-# Veyra: Cuidado Conectado
+# Veyra: Connected Care
 
 
-## Resumen del Proyecto
+## Project Overview
 
-**Veyra** es una plataforma digital diseñada para **transformar la gestión y la comunicación del cuidado de personas mayores** en instalaciones de vida asistida y hogares.
+**Veyra** is a digital platform designed to **transform the management and communication of elder care** in assisted living facilities and homes.
 
-Nuestra solución crea un **puente digital seguro y transparente** entre los cuidadores profesionales y los familiares, ofreciendo herramientas de gestión clínica avanzada, monitoreo en tiempo real y comunicación fluida. El objetivo principal es garantizar que los residentes reciban la mejor atención posible, mientras se proporciona a las familias una **completa tranquilidad**.
-
-
-## Características Principales
-
-Veyra se enfoca en optimizar la eficiencia operativa para las instituciones y aumentar la tranquilidad para las familias.
-
-* **Comunicación Fluida:** Canales dedicados para actualizaciones en tiempo real entre cuidadores y familias.
-* **Monitoreo de Salud en Tiempo Real:** Acceso seguro e inmediato a información vital y registros clínicos.
-* **Gestión Clínica Optimizada:** Centralización y automatización de tareas como horarios de medicación, planes de tratamiento y notas del cuidador.
-* **Reportes y Analíticas:** Paneles avanzados para la toma de decisiones basadas en datos sobre la calidad del cuidado y el rendimiento del personal.
-* **Doble Enfoque de Plan:** Ofrece planes específicos tanto para el **Cuidado Familiar (Home Health Care)** como para **Instituciones (Nursing Home Plan)**.
+Our solution creates a **secure and transparent digital bridge** between professional caregivers and family members, offering advanced clinical management tools, real-time monitoring, and seamless communication. The main objective is to ensure residents receive the best possible attention while providing families with **complete peace of mind**.
 
 
 
-## Tecnologías Utilizadas
+## Key Features
 
-Esta *Landing Page* se ha construido utilizando tecnologías web estándar, priorizando la simplicidad, el rendimiento y la internacionalización (i18n):
+Veyra focuses on optimizing operational efficiency for institutions and increasing peace of mind for families.
 
-* **HTML5 & CSS3:** Estructura y estilo principal de la página.
-* **JavaScript Vainilla:** Para la interactividad (menú, acordeones, cambio de planes) y la funcionalidad de **traducción** (`data-i18n`).
-* **Font Awesome:** Iconografía para mejorar la experiencia de usuario.
-* **Fuentes de Google:** Tipografía moderna (`Instrument Serif`, `Jost`, `Manrope`, `Rubik`, etc.).
-* **Flexbox/Grid:** Para el diseño *responsive* y modular.
+* **Seamless Communication:** Dedicated channels for real-time updates between caregivers and families.
+* **Real-Time Health Monitoring:** Secure and immediate access to vital information and clinical records.
+* **Optimized Clinical Management:** Centralization and automation of tasks like medication schedules, treatment plans, and caregiver notes.
+* **Reporting and Analytics:** Advanced dashboards for data-driven decisions on care quality and staff performance.
+* **Dual Plan Focus:** Offers specific plans for both **Family Care (Home Health Care)** and **Institutions (Nursing Home Plan)**.
+* **Accessibility Focused:** Images on the landing page include descriptive **Alt Text** to support screen readers, ensuring blind or visually impaired users can understand the context of the visuals.
+* **Internationalization (i18n):** The interface supports both **English (EN)** and **Spanish (ES)**, utilizing `data-i18n` attributes for dynamic content translation.
 
 
 
-## Equipo de Desarrollo (NovaPeru Tech)
+## Technologies Used
 
-Veyra es un proyecto desarrollado por un equipo de estudiantes de Ingeniería de Software, enfocado en combinar habilidades técnicas con una visión de impacto social:
+This *Landing Page* was built using standard web technologies, prioritizing simplicity, performance, and internationalization (i18n):
 
-| Miembro | Rol Principal | Enfoque |
-| :--- | :--- | :--- |
-| **Renato Guillermo Calvo Yalan** | Software Engineer | Liderazgo de Equipo, Ciberseguridad, IA |
-| **Billy Jake Ruiz Madrid** | Software Engineer | Colaboración, Soluciones Eficientes (C++, Python) |
-| **Ariana Lizeth Ramírez Carrasco** | Software Engineer | Gestión de Proyectos, Desarrollo Web, Análisis de Datos |
-| **Oscar Javier Armas Sánchez** | Software Engineer | Desarrollo Web, Gestión de Proyectos |
-| **Miguel Ángel Junior Román López** | Software Engineer | Diseño Web, Programación Orientada a Objetos (OOP) |
-| **Adrian Alonso Quiroz Cáceres** | Software Engineer | Desarrollo de Soluciones Digitales, Bases de Datos |
+* **HTML5 & CSS3:** Main page structure and styling.
+* **Vanilla JavaScript:** For interactivity (menu, accordions, plan switching) and **translation** functionality (`data-i18n`).
+* **Font Awesome:** Iconography to enhance user experience.
+* **Google Fonts:** Modern typography (`Instrument Serif`, `Jost`, `Manrope`, `Rubik`, etc.).
+* **Flexbox/Grid:** For responsive and modular design.
